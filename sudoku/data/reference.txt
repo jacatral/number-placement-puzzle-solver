@@ -1,0 +1,4 @@
+Case data
+https://www.7sudoku.com/
+https://github.com/t-dillon/tdoku/blob/master/benchmarks/README.md
+
